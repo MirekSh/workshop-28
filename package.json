@@ -1,0 +1,30 @@
+{
+  "name": "workshop-28",
+  "version": "1.0.0",
+  "description": "Workshop-28-PWA",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.12.0",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirekSh/workshop-28.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Miroslaw Szczechowski",
+    "email": "m.szczechowski@yahoo.pl"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirekSh/workshop-28/issues"
+  },
+  "homepage": "https://github.com/MirekSh/workshop-28#readme"
+}
