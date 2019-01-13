@@ -64,3 +64,8 @@ typings/
 *~
 *.swp
 *.swo
+
+# Unused files
+datastore.json
+dist/
+index.html
