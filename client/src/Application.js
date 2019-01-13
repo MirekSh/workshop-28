@@ -1,3 +1,5 @@
+import '@babel/polyfill';
+
 import { html, render } from 'lit-html';
 import 'material-design-lite';
 
